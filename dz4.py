@@ -23,7 +23,7 @@
 # 4
 # a = int(input())
 # cnt = 0
-# for i in range(1,a+1):
+# for i in range(1,abs(a)+1):
 #     k = 10 ** i
 #     cnt += 1
 #     if a//k == 0:
